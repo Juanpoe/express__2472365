@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 //Vincular Clases  o Archivos
 const Server = require('./models/server')
 
